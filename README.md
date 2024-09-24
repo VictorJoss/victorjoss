@@ -10,7 +10,7 @@
   <h4>Languages and frameworks:</h4>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
