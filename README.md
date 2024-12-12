@@ -42,6 +42,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="Css3 logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
