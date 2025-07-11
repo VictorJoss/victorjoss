@@ -71,7 +71,7 @@
 
 <div align="centr">
   <h4>Let's connect here:</h4>
-  <a href="https://www.linkedin.com/in/victor-josu%C3%A9-ramirez-garc%C3%ADa-899bb81a6/" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/victorjosue" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
