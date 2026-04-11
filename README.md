@@ -17,9 +17,9 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" "  />
 </div>
 
-###
-
-<img width="330" align="left" src="https://i.pinimg.com/originals/86/89/35/8689354293f1da6123c561184a99a4c8.png"  />
+<!-- div align="left">
+  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorjoss&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="130" alt="languages graph"  />
+</div -->
 
 ###
 
@@ -46,6 +46,11 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
    <img width="12" />
 </div>
+<div height="100">.</p>
+
+###
+
+<img width="330" align="left" src="https://i.pinimg.com/originals/86/89/35/8689354293f1da6123c561184a99a4c8.png"  />
 
 ###
 
@@ -68,4 +73,3 @@
 </div>
 
 ###
-
